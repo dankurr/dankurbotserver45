@@ -9,5 +9,5 @@ multidict==4.7.5
 pip==19.2.3
 pytz==2020.1
 setuptools==41.2.0
-websockets==8.1
+websockets==9.1
 yarl==1.4.2
